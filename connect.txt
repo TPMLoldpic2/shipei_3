@@ -1,0 +1,9 @@
+# 臺北跨時空：外部連結設定
+# 以後只要改最後面的 LINK 欄，不需要修改 index.html。
+# 網址建議使用 https:// 開頭。
+https://tpmloldpic2.github.io/CHIMING6/
+| NO | 類別 | ITEM | LINK |
+| -- | ---- | ---- | ---- |
+| 1 | 活動資訊 |https://tpml.gov.taipei/News_Content.aspx?n=3951678DEC0A8461&s=282941664B9FE3F8&sms=9D72E82EC16F3E64 | |
+| 2 | 問卷調查 | https://docs.google.com/forms/d/e/1FAIpQLSe1Aa864WGLkFGs01z4w_V336wFMQ7aJCvpZiwrQC5g-xC6zg/viewform?usp=publish-editor | |
+石牌車站的前身為日治時期的「唭里岸乘降場」，1915年配合淡水線汽動車運行而設立。戰後仍沿用唭里岸站名，1955年正式改稱「石牌站」。隨著戰後石牌地區逐漸發展，榮民總醫院、陽明醫學院等醫療與教育設施也陸續設立，石牌站成為地方重要的交通據點。1988年臺鐵淡水線停駛，舊石牌站隨之走入歷史；1997年捷運淡水線通車，捷運石牌站正式啟用。值得注意的是，昔日臺鐵石牌站位於今日捷運石牌站南方、自強街底一帶，兩座車站並不在完全相同的位置。
